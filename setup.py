@@ -5,7 +5,7 @@ setup(
    version='1.0.0',
    author='Byeongdu Lee',
    author_email='blee@anl.gov',
-#   packages=['SmaractStage'],
+   packages=['SmaractStage'],
    url='#',
    license='LICENSE.txt',
    description='APS 12ID smaract stage control',

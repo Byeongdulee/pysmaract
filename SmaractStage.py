@@ -1,5 +1,5 @@
-import smaract.ctl as ctl
 import sys
+import smaract.ctl as ctl
 import time
 # installation: 
 # 1. download SDK
