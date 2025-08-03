@@ -1,6 +1,6 @@
 import asyncio
 from caproto.server import pvproperty, PVGroup, run
-from SmaractStage import SmarAct
+from SmaractStage.SmaractStage import SmarAct
 
 smaract_controller = SmarAct(MCS2="MCS2-00015447", axis=[3,4])
 class Motor():
